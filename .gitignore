@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Frontend (Next.js)
+frontend/node_modules
+frontend/.next
+frontend/out
+frontend/.env*.local

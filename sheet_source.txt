@@ -1,0 +1,4 @@
+# Source for import_sheet.py. First non-comment line is used.
+# Managed by sheetchange.py - use that instead of hand-editing this file.
+
+https://docs.google.com/spreadsheets/d/1kczBnGQ1EyZqe9O5KTsZ-fkDSG3Gk3AEYt2yxZg82hQ/edit
